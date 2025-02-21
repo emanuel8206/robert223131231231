@@ -1,0 +1,17 @@
+<meta>
+    <info author="TuNombre" version="1.0" type="script" />
+    <script src="hud.lua" type="client" />
+     <script src="stamina.lua" type="client" />
+     <script src="valores.lua" type="server" />
+        <file src="images/corazon.png" />
+        <file src="images/sed.png" />
+        <file src="images/hambre.png" />
+        <file src="images/stamina.png" />
+        <file src="images/armor.png" />
+        <file src="images/armor.png" />
+        <file src="images/circle.png" />
+         <file src="images/rectangle.png" />
+        <file src="bold.ttf" />
+        <file src="righteous.ttf" />
+
+</meta>
